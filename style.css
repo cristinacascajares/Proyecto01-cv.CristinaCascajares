@@ -1,4 +1,78 @@
 *{ 
- background-color: rgba(255, 255, 255, 0.2);
- color:rgb(157, 57, 140);
+ background-color: #f4f1de;
+ font-family: 'Montserrat', sans-serif;
+ color:#3d405b;
 }
+
+body {
+   font-weight: 200;
+
+}
+
+h1 {
+    font-weight: 900;
+    color: #e07a5f;
+ 
+ 
+}
+h2 {
+    font-weight: 900;
+    color: #e07a5f;
+ 
+ 
+}
+
+h3 {
+    font-weight: 900;
+ 
+ 
+}
+
+h4 {
+    font-weight: 300;
+    color: #81b29a;
+   
+}
+
+
+h5 {
+    font-weight: 200;
+    color:  #e07a5f;
+   
+}
+
+
+
+p {
+    font-weight: 200;
+    color: #81b29a;
+   
+ 
+  }
+
+ #titulos {
+ color: #e07a5f;
+ 
+}
+
+ .parrafos {
+ font-size; 25px; /* rem, em, pt, px */
+ color: rgb(10,01,01);
+
+}
+
+.datospersonales {
+    font-weight: 100;
+    font-size; 25px; /* rem, em, pt, px */
+    color: rgb(10,01,01);
+   
+   }
+
+
+   /*
+      margin: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px; 
+    */
